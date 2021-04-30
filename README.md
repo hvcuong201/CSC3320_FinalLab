@@ -4,6 +4,7 @@ Lab 12 - containing all the lab assignments in System Level Programming Fall 202
 @choang7
 - Lab assignment requiring to submit source code will have a 'ReadMe.txt' file to instruct user on how to execute the program and a brief explaination on how the program works.
 - Lab assignment requiring to submit the documentation has everything explained in the documentation itself. 
+- Switch to 'master' branch to see the source code or documents of all the lab assignments.
 
 General Instruction on how to execute '.c' file and shell script:
  * How to execute '.c' extension file:
