@@ -1,0 +1,50 @@
+     1    147  cd ..
+     2    148  mv -i Public/Regular Public/Others
+     3    149  ls
+     4    150  cd Public
+     5    151  ls
+     6    152  pwd
+     7    153  cd ..
+     8    154  pwd
+     9    155  ls
+    10    156  cp /home/choang7/Lab2_P2 Public/Submission/Lab2
+    11    157  cp ../Lab2_P2 Public/Submission/Lab2
+    12    158  cp /home/choang7/Lab2_P2 /Public/Submission/Lab2
+    13    159  cp home/choang7/Lab2_P2 /Public/Submission/Lab2
+    14    160  cd ..
+    15    161  ls
+    16    162  cd public
+    17    163  cp -r /home/choang7/Lab2_P2 /Public/Submission/Lab2
+    18    164  cp -r /home/choang7/Lab2_P2 ./Public/Submission/Lab2
+    19    165  cd Public/Submission
+    20    166  ls
+    21    167  cd Lab2
+    22    168  ls
+    23    169  cd Lab2_P2
+    24    170  ls
+    25    171  cd ..
+    26    172  ls
+    27    173  cd Lab2_P2
+    28    174  ls
+    29    175  cd ..
+    30    176  cd /public/Public/Submission
+    31    177  cd public/Public/Submission
+    32    178  ls
+    33    179  cd Lab2
+    34    180  ls
+    35    181  rm Lab2_P2
+    36    182  rm -r Lab2_P2
+    37    183  ls
+    38    184  cd ....
+    39    185  cd ..
+    40    186  cp -r ../Lab2_P2 ./Public/Submission/Lab2
+    41    187  cd Public/Submission/Lab2
+    42    188  ls
+    43    189  cd ..
+    44    190  rm -r ../Lab2_P2
+    45    191  cd ..
+    46    192  ls
+    47    193  cd public
+    48    194  history
+    49    195  history 50
+    50    196  history 50 > ./Public/Submission/Lab2/Lab2_2.txt
